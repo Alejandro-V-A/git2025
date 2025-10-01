@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE superheroes SYSTEM "xml-dtd-01.dtd">
+<superheroes>
+<superheroe>Hulk</superheroe>
+<superheroe>Iron Man</superheroe>
+<superheroe>Thor</superheroe>
+</superheroes>
