@@ -1,0 +1,2 @@
+<!ELEMENT superheroes (superheroe*)>
+<!ELEMENT superheroe (#PCDATA)>
